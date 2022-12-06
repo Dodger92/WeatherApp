@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="api_key">7c3123b7eabe49c2ab2145848220212</string>
+    <string name="base_url">http://api.weatherapi.com/</string>
+    <string name="no_data_available">Нет доступных данных</string>
+    <string name="wind">иконка скорости ветра</string>
+    <string name="pressure">иконка атмосферного давления</string>
+    <string name="humidity">иконка влажности</string>
+    <string name="condition">иконка текущей погоды</string>
+    <string name="condition_day">иконка погоды дня недели</string>
+    <string name="query_limit_reached">Достигнут лимит запросов в апи. Пожалуйста попробуйте позже.</string>
+    <string name="something_went_wrong">Что то пошло не так</string>
+    <string name="location_ic">иконка города</string>
+    <string name="select_city">Выберите город</string>
+    <string name="almaty">Almaty</string>
+    <string name="astana">Astana</string>
+</resources>
